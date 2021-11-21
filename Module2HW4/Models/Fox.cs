@@ -8,6 +8,7 @@ namespace Module2HW4.Models
 {
     public class Fox : Cenine
     {
+        public override int MaxSpeed { get; set; } = 67;
         public override string Name { get; set; } = "Fox";
         public bool Burrowing { get; set; } = true;
         public bool ShortLegs { get; set; } = true;

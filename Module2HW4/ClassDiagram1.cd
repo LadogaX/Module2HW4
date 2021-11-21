@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Module2HW4.Models.Animals">
-    <Position X="7.75" Y="0.5" Width="1.5" />
+    <Position X="8" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Animals.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Position="0.627" />
   </Class>
   <Class Name="Module2HW4.Models.Predators">
     <Position X="12.75" Y="0.75" Width="1.5" />
@@ -39,28 +39,28 @@
   <Class Name="Module2HW4.Models.Hare">
     <Position X="6.5" Y="4.75" Width="2.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
       <FileName>Models\Hare.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Module2HW4.Models.WildRabbit">
     <Position X="4.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AgAAAAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AgAAAAAAAAAAAAIAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\WildRabbit.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Module2HW4.Models.Mice">
     <Position X="2.75" Y="4.75" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAABAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAABAAAAAAAAEAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Mice.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Module2HW4.Models.Rat">
     <Position X="0.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AACAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AACAAAAAAAABAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Rat.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -72,7 +72,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Module2HW4.Models.Catlike">
-    <Position X="10.75" Y="2.5" Width="1.5" />
+    <Position X="10.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Models\Catlike.cs</FileName>
@@ -81,29 +81,29 @@
   <Class Name="Module2HW4.Models.Fox">
     <Position X="15.75" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAIAAAAAAAQAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAIAAAAEAAQAAAAAAAAAAAIAAAAAAAA=</HashCode>
       <FileName>Models\Fox.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Module2HW4.Models.Wolf">
+  <Class Name="Module2HW4.Models.Coyote">
     <Position X="13.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AQAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Models\Wolf.cs</FileName>
+      <HashCode>AQAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Coyote.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Module2HW4.Models.Lynx">
+  <Class Name="Module2HW4.Models.Caracal">
     <Position X="9.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
-      <FileName>Models\Lynx.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Caracal.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Module2HW4.Models.AmurTiger">
-    <Position X="11.75" Y="4.75" Width="1.5" />
+  <Class Name="Module2HW4.Models.Cheetah">
+    <Position X="11.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAA=</HashCode>
-      <FileName>Models\AmurTiger.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Models\Cheetah.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

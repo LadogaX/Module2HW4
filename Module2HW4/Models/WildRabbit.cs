@@ -8,6 +8,7 @@ namespace Module2HW4.Models
 {
     public class WildRabbit : Hares
     {
+        public override int MaxSpeed { get; set; } = 48;
         public override string Name { get; set; } = "WildRabbit";
         public bool LiveInGroup { get; set; }
         public bool Burrowing { get; set; }

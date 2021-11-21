@@ -5,5 +5,6 @@ namespace Module2HW4.Models
    public abstract class Animals : IAnimals
     {
         public abstract string Name { get; set; }
+        public abstract int MaxSpeed { get; set; }
     }
 }

@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Module2HW4.Models
 {
-    public class Wolf : Cenine
+    public class Coyote : Cenine
     {
-        public override string Name { get; set; } = "Wolf";
+        public override int MaxSpeed { get; set; } = 69;
+        public override string Name { get; set; } = "Coyote";
         public bool EatingCarrion { get; set; } = true;
     }
 }

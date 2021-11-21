@@ -3,5 +3,6 @@
     public interface IAnimals
     {
        string Name { get; set; }
+       int MaxSpeed { get; set; }
     }
 }
